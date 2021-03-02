@@ -1,0 +1,18 @@
+img{
+   border-radius: 25px;
+   border: 2px solid #073d70;
+}
+
+h1 {
+    color: rgb(237, 237, 241);
+}
+
+.header{
+    background-color:rgb(103, 145, 223);
+    display: flex;
+    justify-content:space-between;
+    border: solid;
+    border-color:rgb(70, 119, 211)
+}
+
+
